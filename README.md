@@ -46,7 +46,7 @@ Here I used Excel and MS Power Point.
 
 # Database Development Projects
 
-## SQL Database
+## SQL Database - Rio de Janeiro State University / Engineering Faculty (FEN - UERJ)
 
 The objective of this project was to implement a database for Brazilian 2017 Championship data. This work is being used by 3 engineering students in their final paper wich are co-advisored by me.
 
