@@ -70,7 +70,7 @@ This software was developed cross-platform (Android and iOS) with in C# with Vis
 
 # About Me
 
-An result driven technology professional with passion for solving real-life problems through Data Science. Past experiences with coordination as well as TI and people management can be very usefull in any area of work.
+A result driven technology professional with passion for solving real-life problems through Data Science. Past experiences with coordination as well as TI and people management can be very usefull in any area of work.
 
 TECHNICAL SKILLSET
 
