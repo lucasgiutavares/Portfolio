@@ -64,7 +64,7 @@ This software was developed in Java using the Android Studio IDE.
 ## Stroop Test - Soccer Studies Lab (LABESFUT - UERJ)
 
 The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
-This software was developed cross-platform (Android and iOS) with in C# with Visual Studio IDE and Xamarin.
+This software was developed cross-platform (Android and iOS) in C# with Visual Studio IDE and Xamarin.
 
 ![]() ![]()
 
