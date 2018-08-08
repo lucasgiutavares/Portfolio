@@ -50,7 +50,7 @@ Here I used Excel and MS Power Point.
 
 The objective of this project was to implement a database for Brazilian 2017 Championship data. This work is being used by 3 engineering students in their final paper wich are co-advisored by me.
 
-[Code Repository Link](https://www.dropbox.com/s/t0qz83mvttsaj2m/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
+[Code Repository Link](https://github.com/lucasgiutavares/lgtavares/commit/8e11eb60c4aefb10ed57e2136d04de6fd0929d2f)
 
 # Software Development Projects
 
