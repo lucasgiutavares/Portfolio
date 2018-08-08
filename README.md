@@ -59,14 +59,14 @@ The objective of this project was to implement a database for Brazilian 2017 Cha
 The objective of this project was to produce a tool for video analysis and data collection in real time of soccer matches.
 This software was developed in Java using the Android Studio IDE.
 
-[Image](https://www.dropbox.com/s/t0qz83mvttsaj2m/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
+![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
 
 ## Stroop Test - Soccer Studies Lab (LABESFUT - UERJ)
 
 The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
 This software was developed cross-platform (Android and iOS) with in C# with Visual Studio IDE and Xamarin.
 
-[Images]()
+![]() ![]()
 
 # About Me
 
