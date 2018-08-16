@@ -26,16 +26,16 @@ I was the co-advisor of this work and used R for the statistical analysis and da
 ## Titanic: Machine Learning from Disaster
 
 In this Kaggle Competition a model is made for predicting who would die from Titanic Disaster.
-Here I used R on the entire proccess and produced Logistic Regression, Random Forests and Support Vector Machine models for prediction with a xx% Kaggle Accuracy.
+R was used on the entire proccess and produced Logistic Regression, Random Forests and Support Vector Machine models for prediction.
 
-[Report]()
+The final model used Support Vector Machine, Random Forests, Naive Bayes and Logistic Regression, chosing the model with the best accuracy on training for final prediction. The model achieved 77% Kaggle Accuracy.
 
 ## House Prices Prediction
 
 In this Kaggle Competition a model were made for predicting the prices of houses in Aimes, Iowa.
-Here I used R on the entire proccess and produced Linear Regression models for prediction.
+R was used on the entire proccess with Hmisc, FSelector, e1071 and RandomForest packages.
 
-[Report]()
+Random Forest was used for feature selection and linear regression for final prediction. The final model achieved a RSME of 0.16534.
 
 ## Data Collection and Report - Information and Methodological Support Center (CIAM - Fluminense Football Club)
 
@@ -66,7 +66,8 @@ This software was developed in Java using the Android Studio IDE.
 The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
 This software was developed cross-platform (Android and iOS) in C# with Visual Studio IDE and Xamarin.
 
-![]() ![]()
+![](https://image.ibb.co/gvjvO9/Screenshot_2018_08_16_08_40_13.png) ![](https://image.ibb.co/cwEjGU/Screenshot_2018_08_16_08_40_33.png)
+![](https://image.ibb.co/cE3BwU/Screenshot_2018_08_16_08_41_21.png)  ![](https://image.ibb.co/gzaPGU/Screenshot_2018_08_16_08_41_28.png)
 
 # About Me
 
