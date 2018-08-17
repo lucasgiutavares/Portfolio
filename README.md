@@ -54,7 +54,7 @@ The objective of this project was to implement a database for Brazilian 2017 Cha
 
 ## SQL Database - Rio de Janeiro State University / Engineering Faculty (FEN - UERJ)
 
-The objective of this project was to populate the "Atletas" table of DBBR2017 Database.
+The objective of this project was to populate the "Atletas" table of DBBR2017 Database from an XML file using R.
 
 [Report](https://rawgit.com/lucasgiutavares/lgtavares/master/Populating%20DB.html)
 
