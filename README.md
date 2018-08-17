@@ -52,6 +52,12 @@ The objective of this project was to implement a database for Brazilian 2017 Cha
 
 [Code Repository Link](https://github.com/lucasgiutavares/lgtavares/commit/ebbea002121d807633bed75a274b0a34f0eeef68)
 
+## SQL Database - Rio de Janeiro State University / Engineering Faculty (FEN - UERJ)
+
+The objective of this project was to populate the "Atletas" table of DBBR2017 Database.
+
+[Report](https://rawgit.com/lucasgiutavares/lgtavares/master/Populating%20DB.html)
+
 # Software Development Projects
 
 ## TAGGER - Android APP
