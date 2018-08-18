@@ -1,7 +1,7 @@
 # Professional Portfolio by Lucas Tavares
 
-This is a portfolio of data science as well as database and software develpoment projects. 
-The projects are listed by their objectives and some of them are summarized on Dropbox pdf files and Rpubs reports.
+This is a portfolio of data science, database and software develpment projects. 
+The projects are listed by their objectives and some of them are summarized on Dropbox pdf files and reports.
 
 [Linkedin](www.linkedin.com/in/lucas-tavares92)
 
@@ -25,8 +25,8 @@ I was the co-advisor of this work and used R for the statistical analysis and da
 
 ## Titanic: Machine Learning from Disaster
 
-In this Kaggle Competition a model is made for predicting who would die from Titanic Disaster.
-R was used on the entire proccess and produced Logistic Regression, Random Forests and Support Vector Machine models for prediction.
+In this Kaggle Competition a model was made for predicting who would die from Titanic Disaster.
+R was used on the entire proccess.
 
 The final model used Support Vector Machine, Random Forests, Naive Bayes and Logistic Regression, chosing the model with the best accuracy on training for final prediction. The model achieved 77% Kaggle Accuracy.
 
@@ -39,7 +39,7 @@ Random Forest was used for feature selection and linear regression for final pre
 
 ## Data Collection and Report - Information and Methodological Support Center (CIAM - Fluminense Football Club)
 
-The objective of this work was to give a report on soccer performance of the main Brazillian Clubs on the last 5 years.
+The objective of this work was to give a report on soccer performance of the main Brazillian Clubs Academies on the last 5 years.
 Here I used Excel and MS Power Point.
 
 [PDF Link](https://www.dropbox.com/s/t0qz83mvttsaj2m/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
@@ -54,7 +54,7 @@ The objective of this project was to implement a database for Brazilian 2017 Cha
 
 ## SQL Database - Rio de Janeiro State University / Engineering Faculty (FEN - UERJ)
 
-The objective of this project was to populate the "Atletas" table of DBBR2017 Database from an XML file using R.
+The objective of this project was to populate the "Atletas" table of DBBR2017 Database from a XML file using R.
 
 [Report](https://rawgit.com/lucasgiutavares/lgtavares/master/Populating%20DB.html)
 
@@ -63,7 +63,7 @@ The objective of this project was to populate the "Atletas" table of DBBR2017 Da
 ## TAGGER - Android APP
 
 The objective of this project was to produce a tool for video analysis and data collection in real time of soccer matches.
-This software was developed in Java using the Android Studio IDE.
+This software was developed in Java using the Android Studio IDE and was used in CIAM - FLU.
 
 ![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
 
@@ -77,11 +77,12 @@ This software was developed cross-platform (Android and iOS) in C# with Visual S
 
 # About Me
 
-A result driven technology professional with passion for solving real-life problems through Data Science. Past experiences with coordination as well as TI and people management can be very usefull in any area of work.
+A result driven technology professional with passion for solving real-life problems through Data Science. Past experiences with coordination as well as TI and people management can be very usefull in any area of work. Great learning and teamwork abilities.
 
 TECHNICAL SKILLSET
 
 * **Data Science:** Good practical experience with Information Management, Machine Learning, Regression Models, Graphs, Statistical Inference, Exploratory Data Analysis and Data Wrangling.
 * **SQL:** Database modeling, implementing and querying for data extraction/shaping for targeted analysis purposes.
-* **R** (RStudio, igraph, e1071, randomForest, h2o, neuralnet, Arules, ggplot2)
+* **R** (RStudio, igraph, e1071, randomForest, h2o, neuralnet, Arules, FSelector, obdc, ggplot2)
 * **Java, C#, VB.net** Cross-Platform Front End Developing with Visual Studio/Xamarin and Android Studio.
+* **Excel, MS Power Point, Power BI, SPSS** Advanced knowledge in data analysis and reporting.
