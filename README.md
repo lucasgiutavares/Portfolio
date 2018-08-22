@@ -11,6 +11,18 @@ Os projetos estão listados por seus objetivos e alguns deles estão resumidos e
 
 Aqui encontram-se alguns projetos oriundos de experiências profissionais e acadêmicas.
 
+## Titanic: Machine Learning from Disaster
+
+Nessa competição Kaggle foi desenvolvido um modelo para predição da probabilidade de sobrevivência dos passageiros do Titanic.
+Foi usado o R durante todo o processo.
+
+Modelos finais utilizaram Support Vector Machine, Random Forests, Naive Bayes e Regressão Logística e escolheu o modelo com a melhor 
+acurácia no treino para a predição final.
+
+O modelo exibiu 78.947% de acurácia Kaggle.
+
+[Relatório](https://rawgit.com/lucasgiutavares/Portfolio/master/Titanic%20-%20Parte%201.html)
+
 ## Análise de Dados Exploratória - Centro de Informação e Apoio Metodológico (CIAM - Fluminense Football Club)
 
 O objetivo desse projeto foi ofecerer um resumo sobre a performance de uma equipe Sub 20 de Futebol do Fluminense Football Club.
@@ -25,15 +37,6 @@ Atuei como co-orientador e usei R para a análise estatística e preparo dos dad
 
 [PDF](https://www.dropbox.com/s/nlnviymo64mx1hw/Poster%20-%20Lucas%20Tavares.pdf?dl=0)
 
-## Titanic: Machine Learning from Disaster
-
-Nessa competição Kaggle foi desenvolvido um modelo para predição da probabilidade de sobrevivência dos passageiros do Titanic.
-Foi usado o R durante todo o processo.
-
-Modelos finais utilizaram Support Vector Machine, Random Forests, Naive Bayes e Regressão Logística e escolheu o modelo com a melhor 
-acurácia no treino para a predição final.
-
-O modelo exibiu 77% de acurácia Kaggle.
 
 ## House Prices Prediction
 
