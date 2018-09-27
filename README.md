@@ -33,26 +33,25 @@ Aqui foram usados MS Excel, SPSS, R, e MS Power Point.
 ## Relatório Power BI - Relatório Mundial da Felicidade 2017
 
 O objetivo desse Dashboard foi criar um resumo conciso dos dados do Relatório Mundial da Felicidade aplicado pela Organização das
-Nações Unidas.
+Nações Unidas através da ferramente Power BI.
 
 [Dashboard](https://bit.ly/2xRDqR6)
 
 ## Modelo de Regressão Logística - Trabalho de Conclusão de Curso (Universidade do Estado do Rio de Janeiro - UERJ)
 
 O presente trabalho foi apresentado no formato poster como requisito para graduação em Educação Física.
-Atuei como co-orientador e usei R para a análise estatística e preparo dos dados.
+Atuação como co-orientador e utilização de R para a análise estatística e preparo dos dados.
 
 [PDF](https://www.dropbox.com/s/nlnviymo64mx1hw/Poster%20-%20Lucas%20Tavares.pdf?dl=0)
-
 
 ## House Prices Prediction
 
 Nessa competição Kaggle um modelo foi desenvolvido para predição de preços de casa em Aimes, Iowa.
 O R foi usado durante todo o processo com os pacotes Hmisc, FSelector, e1071 e randomForest.
 
-Foi utilizado um modelo de Random Forest para seleção de variáveis e regressão linear para a predição final. 
+Foi utilizado um modelo de Regressão Lasso para seleção de variáveis e Support Vector Machine para a predição final. 
 
-O modelo final exibiu um RSME de 0.16534.
+O modelo final exibiu um RSME de 0.12542.
 
 ## Coleta de dados e relatório - Centro de Informação e Apoio Metodológico (CIAM - Fluminense Football Club)
 
@@ -68,7 +67,7 @@ Aqui foram usados MS Excel e MS Power Point.
 
 O objetivo deste projeto foi implementar um banco de dados para os dados do Campeonato Brasileiro de Futebol de 2017.
 Este trabalho está sendo utilizado por 3 estudantes de engenharia de produção para desenvolvimento do Trabalho de Conclusão de Curso
-do qual sou responsável pela co-orientação.
+do qual ofereço co-orientação.
 
 [Repositório](https://github.com/lucasgiutavares/lgtavares/commit/ebbea002121d807633bed75a274b0a34f0eeef68)
 
