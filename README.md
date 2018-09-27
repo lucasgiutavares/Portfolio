@@ -30,6 +30,13 @@ Aqui foram usados MS Excel, SPSS, R, e MS Power Point.
 
 [PDF](https://www.dropbox.com/s/yxjkhofptt0eell/Relat%C3%B3rio%20TG%20S20.pdf?dl=0)
 
+## Relatório Power BI - Relatório Mundial da Felicidade 2017
+
+O objetivo desse Dashboard foi criar um resumo conciso dos dados do Relatório Mundial da Felicidade aplicado pela Organização das
+Nações Unidas.
+
+[Dashboard](https://bit.ly/2xRDqR6)
+
 ## Modelo de Regressão Logística - Trabalho de Conclusão de Curso (Universidade do Estado do Rio de Janeiro - UERJ)
 
 O presente trabalho foi apresentado no formato poster como requisito para graduação em Educação Física.
@@ -53,7 +60,7 @@ O objetivo deste trabalho foi gerar um relatório sobre a performance das princi
 precedentes à data do início do projeto.
 Aqui foram usados MS Excel e MS Power Point.
 
-[PDF](https://www.dropbox.com/s/t0qz83mvttsaj2m/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
+[PDF](https://www.dropbox.com/s/71q8ectxc4s3c67/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
 
 # Desenvolvimento de Banco de Dados
 
@@ -91,14 +98,15 @@ Este software foi desenvolvido em multiplataforma (Android e iOS) em C# com Visu
 
 # Sobre mim
 
-Profissional de tecnologia apaixonado por solucionar problemas através de Data Science. Experiências com coordenação, TI e gestão de 
-pessoas podem ser bastante úteis em qualquer área de trabalho. Excelentes habilidades de aprendizado e trabalho em equipe.
+Profissional de tecnologia apaixonado por solucionar problemas através de dados. Experiências com coordenação, TI e gestão de 
+pessoas podem ser úteis em qualquer área de trabalho. Facilidade no aprendizado de novas habilidades e no trabalho em equipe.
 
 COMPETÊNCIAS TÉCNICAS
 
 Data Science - 2 anos de experiência prática com Gestão da Informação, Machine Learning, Regressão, Grafos, Estatística Inferencial, 
 Análise de Dados Exploratória e Preparação de Dados.
-SQL - Modelagem, implementação and pesquisa para extração e preparo de dados para análise.
-R - RStudio, igraph, e1071, randomForest, h2o, neuralnet, Arules, FSelector, obdc, ggplot2.
-Java, C#, VB.net - Desenvolvimento multiplataforma Front End com Visual Studio/Xamarin e Android Studio.
+Business Intelligence - 2 anos de experiência com implementação e monitoramento de KPIs, desenvolvimento de software para coleta de dados e criação de relatórios.
+SQL - Modelagem, implementação and consulta para extração e preparo de dados para análise.
 Excel, MS Power Point, Power BI, SPSS - Conhecimentos avançados em análise de dados e produção de relatórios.
+R - RStudio, ggplot2, dplyr, e1071, randomForest, h2o, neuralnet, Arules, FSelector, obdc.
+Java, C#, VB.net - Desenvolvimento multiplataforma Front End com Visual Studio/Xamarin e Android Studio.
