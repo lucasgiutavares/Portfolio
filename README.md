@@ -61,7 +61,7 @@ Aqui foram usados MS Excel e MS Power Point.
 
 [PDF](https://www.dropbox.com/s/71q8ectxc4s3c67/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
 
-# Desenvolvimento de Banco de Dados
+# Desenvolvimento em SQL
 
 ## Banco de dados SQL - Universidade do Estado do Rio de Janeiro / Faculdade de Engenharia (FEN - UERJ)
 
