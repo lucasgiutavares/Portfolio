@@ -105,7 +105,7 @@ COMPETÊNCIAS TÉCNICAS
 Data Science - 2 anos de experiência prática com Gestão da Informação, Machine Learning, Regressão, Grafos, Estatística Inferencial, 
 Análise de Dados Exploratória e Preparação de Dados.
 Business Intelligence - 2 anos de experiência com implementação e monitoramento de KPIs, desenvolvimento de software para coleta de dados e criação de relatórios.
-SQL - Modelagem, implementação and consulta para extração e preparo de dados para análise.
+SQL - Modelagem, implementação e consulta para extração e preparo de dados para análise.
 Excel, MS Power Point, Power BI, SPSS - Conhecimentos avançados em análise de dados e produção de relatórios.
 R - RStudio, ggplot2, dplyr, e1071, randomForest, h2o, neuralnet, Arules, FSelector, obdc.
 Java, C#, VB.net - Desenvolvimento multiplataforma Front End com Visual Studio/Xamarin e Android Studio.
