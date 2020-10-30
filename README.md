@@ -1,20 +1,10 @@
-# Professional Portfolio by Lucas Tavares
+# Professional Portfolio by Lucas Giusti
 
-This is a portfolio of data science, database and software develpment projects. 
 The projects are listed by their objectives and some of them are summarized on Dropbox pdf files and reports.
 
 [Linkedin](www.linkedin.com/in/lucas-tavares92)
 
-# Data Science Projects
-
-Here are some Data Science projects from professional and academic experiences as well as studying.
-
-## Exploratory Data Analysis - Information and Methodological Support Center (CIAM - Fluminense Football Club)
-
-The objective of this work was to give a report on Soccer performance of an Under 20 team from Fluminense Football Club Academy.
-Here I used Excel, SPSS, R and MS Power Point.
-
-[PDF Link](https://www.dropbox.com/s/yxjkhofptt0eell/Relat%C3%B3rio%20TG%20S20.pdf?dl=0)
+# Machine Learning Projects
 
 ## Logistic Regression Model - Final Paper (Rio de Janeiro  University)
 
@@ -44,6 +34,55 @@ Here I used Excel and MS Power Point.
 
 [PDF Link](https://www.dropbox.com/s/t0qz83mvttsaj2m/Relat%C3%B3rio%20Base%20Brasil.pdf?dl=0)
 
+# Software Development Projects
+
+## Natural Language Processing
+
+### Circulares - Python Flask Web App
+Client: Petrobras
+Company: Tata Consultancy Services
+
+The objective of this project was to produce an NLP tool to detect similar questions from providers about biddings.
+This software was developed in Python Flask and Deployed with Docker and Kubernetes.
+
+## Data Collection
+
+### ET - Python Flask Web App
+Client: Petrobras
+Company: Tata Consultancy Services
+
+The objective of this project was to produce a analysis tool for Technical Specifications documents.
+This software was developed in Python Flask and Deployed with Docker and Kubernetes.
+
+![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
+
+### TAGGER - Android APP
+Company: Fluminense Football Club
+
+The objective of this project was to produce a tool for video analysis and data collection in real time of soccer matches.
+This software was developed in Java using the Android Studio IDE and was used in CIAM - FLU.
+
+![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
+
+### Stroop Test - Soccer Studies Lab (LABESFUT - UERJ)
+
+The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
+This software was developed cross-platform (Android and iOS) in C# with Visual Studio IDE and Xamarin.
+
+![](https://image.ibb.co/gvjvO9/Screenshot_2018_08_16_08_40_13.png) ![](https://image.ibb.co/cwEjGU/Screenshot_2018_08_16_08_40_33.png)
+![](https://image.ibb.co/cE3BwU/Screenshot_2018_08_16_08_41_21.png)  ![](https://image.ibb.co/gzaPGU/Screenshot_2018_08_16_08_41_28.png)
+
+# Business Intelligence Projects
+
+Here are some Data Science projects from professional and academic experiences.
+
+## Exploratory Data Analysis - Information and Methodological Support Center (CIAM - Fluminense Football Club)
+
+The objective of this work was to give a report on Soccer performance of an Under 20 team from Fluminense Football Club Academy.
+Here I used Excel, SPSS, R and MS Power Point.
+
+[PDF Link](https://www.dropbox.com/s/yxjkhofptt0eell/Relat%C3%B3rio%20TG%20S20.pdf?dl=0)
+
 # Database Development Projects
 
 ## SQL Database - Rio de Janeiro State University / Engineering Faculty (FEN - UERJ)
@@ -57,32 +96,3 @@ The objective of this project was to implement a database for Brazilian 2017 Cha
 The objective of this project was to populate the "Atletas" table of DBBR2017 Database from a XML file using R.
 
 [Report](https://rawgit.com/lucasgiutavares/lgtavares/master/Populating%20DB.html)
-
-# Software Development Projects
-
-## TAGGER - Android APP
-
-The objective of this project was to produce a tool for video analysis and data collection in real time of soccer matches.
-This software was developed in Java using the Android Studio IDE and was used in CIAM - FLU.
-
-![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
-
-## Stroop Test - Soccer Studies Lab (LABESFUT - UERJ)
-
-The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
-This software was developed cross-platform (Android and iOS) in C# with Visual Studio IDE and Xamarin.
-
-![](https://image.ibb.co/gvjvO9/Screenshot_2018_08_16_08_40_13.png) ![](https://image.ibb.co/cwEjGU/Screenshot_2018_08_16_08_40_33.png)
-![](https://image.ibb.co/cE3BwU/Screenshot_2018_08_16_08_41_21.png)  ![](https://image.ibb.co/gzaPGU/Screenshot_2018_08_16_08_41_28.png)
-
-# About Me
-
-A result driven technology professional with passion for solving real-life problems through Data Science. Past experiences with coordination as well as TI and people management can be very usefull in any area of work. Great learning and teamwork abilities.
-
-TECHNICAL SKILLSET
-
-* **Data Science:** Good practical experience with Information Management, Machine Learning, Regression Models, Graphs, Statistical Inference, Exploratory Data Analysis and Data Wrangling.
-* **SQL:** Database modeling, implementing and querying for data extraction/shaping for targeted analysis purposes.
-* **R** (RStudio, igraph, e1071, randomForest, h2o, neuralnet, Arules, FSelector, obdc, ggplot2)
-* **Java, C#, VB.net** Cross-Platform Front End Developing with Visual Studio/Xamarin and Android Studio.
-* **Excel, MS Power Point, Power BI, SPSS** Advanced knowledge in data analysis and reporting.
