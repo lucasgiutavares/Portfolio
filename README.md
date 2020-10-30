@@ -76,9 +76,9 @@ Led from conception to development and deploy.
 The objective of this project was to produce an Data Management tool for Ferroviária FC Scounting Department.
 This software was developed and deployed with React Native and Expo.
 
-<a href="https://ibb.co/2g68TnV"><img src="https://i.ibb.co/TmTKsvj/Atleta-1.jpg" alt="Atleta-1" border="0"></a>
-<a href="https://ibb.co/GdXgG4q"><img src="https://i.ibb.co/XW9m6rq/Atleta-2.jpg" alt="Atleta-2" border="0"></a>
-<a href="https://ibb.co/zQMcPSQ"><img src="https://i.ibb.co/9cDXyqc/Equipe.jpg" alt="Equipe" border="0"></a>
+<a href="https://ibb.co/2g68TnV"><img src="https://i.ibb.co/TmTKsvj/Atleta-1.jpg" alt="Atleta-1" border="0" width="281" height="500"></a>
+<a href="https://ibb.co/GdXgG4q"><img src="https://i.ibb.co/XW9m6rq/Atleta-2.jpg" alt="Atleta-2" border="0" width="281" height="500"></a>
+<a href="https://ibb.co/zQMcPSQ"><img src="https://i.ibb.co/9cDXyqc/Equipe.jpg" alt="Equipe" border="0" width="281" height="500"></a>
 
 ### TAGGER - Android APP
 Company: Fluminense Football Club
