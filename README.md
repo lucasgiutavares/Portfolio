@@ -6,6 +6,18 @@ The projects are listed by their objectives and some of them are summarized on D
 
 # Machine Learning Projects
 
+## Time Series Classification Models
+
+MSc dissertation based on Time Series Classification on Aviation.
+Two articles have been submitted and are being analysed, which makes not possible to publish more details here.
+One dataset published [here](http://dx.doi.org/10.21227/k10b-qn21)
+
+## Time Series Classification Models
+
+Different successfull models built to predict B3 Stock Market data.
+Used Dow Jones, NASDAQ, Dollar and Euronext 100 data from Yahoo Finance API.
+Predicted 1% or more uphill events with 88% Precision.
+
 ## Logistic Regression Model - Final Paper (Rio de Janeiro  University)
 
 This work was presented as a requisite for Graduation in Physical Education in poster format.
