@@ -69,6 +69,15 @@ Participated from conception to development and deploy.
 The objective of this project was to produce a analysis tool for Technical Specifications documents.
 This software was developed in Python Flask and Deployed with Docker and Kubernetes.
 
+### Observer - React Native App
+Client: Ferroviária FC
+
+Led from conception to development and deploy.
+The objective of this project was to produce an Data Management tool for Ferroviária FC Scounting Department.
+This software was developed and deployed with React Native and Expo.
+
+![](https://ibb.co/2g68TnV) ![](https://ibb.co/GdXgG4q) ![](https://ibb.co/zQMcPSQ)
+
 ### TAGGER - Android APP
 Company: Fluminense Football Club
 
