@@ -54,8 +54,6 @@ Company: Tata Consultancy Services
 The objective of this project was to produce a analysis tool for Technical Specifications documents.
 This software was developed in Python Flask and Deployed with Docker and Kubernetes.
 
-![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
-
 ### TAGGER - Android APP
 Company: Fluminense Football Club
 
