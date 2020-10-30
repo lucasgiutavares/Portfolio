@@ -42,28 +42,33 @@ Here I used Excel and MS Power Point.
 Client: Petrobras
 Company: Tata Consultancy Services
 
+Participated on development and deploy.
 The objective of this project was to produce an NLP tool to detect similar questions from providers about biddings.
 This software was developed in Python Flask and Deployed with Docker and Kubernetes.
 
 ## Data Collection
 
-### ET - Python Flask Web App
+### Especificações Técnicas - Python Flask Web App
 Client: Petrobras
 Company: Tata Consultancy Services
 
+Participated from conception to development and deploy.
 The objective of this project was to produce a analysis tool for Technical Specifications documents.
 This software was developed in Python Flask and Deployed with Docker and Kubernetes.
 
 ### TAGGER - Android APP
 Company: Fluminense Football Club
 
+Led from conception to development and deploy.
 The objective of this project was to produce a tool for video analysis and data collection in real time of soccer matches.
 This software was developed in Java using the Android Studio IDE and was used in CIAM - FLU.
 
 ![](https://image.ibb.co/bF2z0e/Screenshot_2018_07_27_14_33_24.png) ![](https://image.ibb.co/dybj0e/Screenshot_2018_07_27_14_38_08.png)
 
 ### Stroop Test - Soccer Studies Lab (LABESFUT - UERJ)
+Company: LABESFUT - UERJ
 
+Led from conception to development and deploy.
 The objective of this app was to be used for research in the lab by applying the Stroop Test, a psychometric test related to Inhibition.
 This software was developed cross-platform (Android and iOS) in C# with Visual Studio IDE and Xamarin.
 
